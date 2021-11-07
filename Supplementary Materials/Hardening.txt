@@ -1,0 +1,2 @@
+Add random noise to all foreground images by random_noise.m
+Re-run "Vanilla+DataAugmentation" to get "Model_Hardened" 
